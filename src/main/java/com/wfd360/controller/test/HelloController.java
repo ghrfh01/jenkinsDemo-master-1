@@ -1,4 +1,4 @@
-package com.wfd360.controller;
+package com.wfd360.controller.test;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
